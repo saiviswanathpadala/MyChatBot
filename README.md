@@ -3,8 +3,8 @@
 ## Project Snapshots
 ![pic1](https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/pic1.jpg)
 ![pic3](https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/pic3.jpg)
-![pic2](https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/pic2.jpg)
-![Streamlit3](https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/Streamlit3.pdf)
+![pic2](https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/pic4.jpg)
+### It can also provide you the history, whatever you ask previously : https://github.com/saiviswanathpadala/MyChatBot/blob/main/SnapShots/Streamlit3.pdf
 
 
 
